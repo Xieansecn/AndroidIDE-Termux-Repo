@@ -6,7 +6,7 @@
 
 Open your terminal app in phone.(such as: MT Manager, Termux, etc.)
 ```
-tar -zxvf mirror_arm64.tar.gz -C /storage/emulated/0/anfroifide-repo
+tar -zxvf mirror_arm64.tar.gz -C /storage/emulated/0/androidide-repo
 ```
 ### 2. Into AndroidIDE Terminal
 ```
